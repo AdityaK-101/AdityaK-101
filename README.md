@@ -40,7 +40,7 @@
 
 ### 🌍 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/aditya-m-kulkarni">
+  <a href="https://linkedin.com/in/aditya-m-kulkarni" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/AdityaK-101">
