@@ -30,7 +30,7 @@
 
 ### 🌍 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/adityakulkarni">
+  <a href="https://linkedin.com/in/aditya-m-kulkarni">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/AdityaK-101">
@@ -41,4 +41,4 @@
 ---
 
 ### 💡 Fun Fact  
-✨ Always learning, building, and contributing! 🚀  
+✨ Always learning and building! 🚀  
