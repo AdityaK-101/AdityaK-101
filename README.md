@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaK-101&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/GitHub%20Streak-Loading...-gray?style=for-the-badge&logo=github" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK-101&layout=compact&theme=dark&hide_border=true" />
   <br>
