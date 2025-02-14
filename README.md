@@ -39,7 +39,7 @@
 ---
 
 ### 🌍 Connect with Me  
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/aditya-m-kulkarni" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
