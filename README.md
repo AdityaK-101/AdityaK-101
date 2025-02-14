@@ -29,6 +29,15 @@
 
 ---
 
+### 🛠️ Projects
+<p align="center">
+- Portfolio website
+- Excel automation
+- Outlier Detection in GPS
+</p>
+
+---
+
 ### 🌍 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/aditya-m-kulkarni">
