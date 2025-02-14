@@ -31,8 +31,8 @@
 
 ### 🛠️ Projects
 <p align="center">
-- Portfolio website/n
-- Excel automation/n
+- Portfolio website<br>
+- Excel automation<br>
 - Outlier Detection in GPS
 </p>
 
