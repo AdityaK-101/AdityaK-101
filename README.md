@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Kulkarni! 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Digital%20Craftsman-(Developer%2FFilmmaker%2FCreator)-2D2D2D?style=for-the-badge&labelColor=555">
+  <img src="https://img.shields.io/badge/Digital%20Craftsman-2D2D2D?style=for-the-badge&labelColor=555">
 </p>
 
 <p align="center">
