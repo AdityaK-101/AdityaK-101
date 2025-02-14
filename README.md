@@ -7,14 +7,14 @@
 
 ### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdityaK-101&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaK-101&theme=radical" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaK-101&show_icons=true&theme=radical" />
   <br>
