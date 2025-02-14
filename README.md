@@ -39,11 +39,11 @@
 ---
 
 ### 🌍 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/aditya-m-kulkarni">
+<p align="center">
+  <a href="https://linkedin.com/in/aditya-m-kulkarni" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/AdityaK-101">
+  <a href="https://github.com/AdityaK-101" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
