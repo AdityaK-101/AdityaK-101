@@ -7,7 +7,7 @@
 
 ### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow, raspberrypie, vscode" />
 </p>
 
 ---
