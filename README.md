@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=AdityaK-101&theme=dark&hide_border=true&cache_seconds=86400" />
+  <img src="https://img.shields.io/badge/GitHub%20Streak-🔥%2010%20Days-darkred?style=for-the-badge&logo=github&logoColor=white" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaK-101&show_icons=true&theme=dark&hide_border=true" />
   <br>
