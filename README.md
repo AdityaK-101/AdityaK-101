@@ -18,7 +18,7 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Streak-🔥%2010%20Days-darkred?style=for-the-badge&logo=github&logoColor=white" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK-101&layout=compact&theme=dark&hide_border=true" />
@@ -30,7 +30,7 @@
 ---
 
 ### 🛠️ Projects
-<p align="center">
+<p align="left">
 - Portfolio website<br>
 - Excel automation<br>
 - Outlier Detection in GPS
