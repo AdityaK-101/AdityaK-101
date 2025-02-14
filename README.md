@@ -19,8 +19,6 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaK-101&theme=github-dark&hide_border=true" />
-  <br>
   <img src="https://github-readme-streak-stats.vercel.app/?user=AdityaK-101&theme=dark&hide_border=true&cache_seconds=86400" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaK-101&show_icons=true&theme=dark&hide_border=true" />
