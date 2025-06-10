@@ -10,9 +10,12 @@
 
 ---
 
-### 🛠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,raspberrypi,vscode" />
+### 🛠️ Projects
+<p align="left">
+- AI Coding Tutor application<br>
+- Outlier Detection in car GPS<br>
+- Portfolio website<br>
+- Excel automation
 </p>
 
 ---
@@ -29,12 +32,9 @@
 
 ---
 
-### 🛠️ Projects
-<p align="left">
-- AI Coding Tutor application<br>
-- Outlier Detection in car GPS<br>
-- Portfolio website<br>
-- Excel automation
+### 🛠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,raspberrypi,vscode" />
 </p>
 
 ---
