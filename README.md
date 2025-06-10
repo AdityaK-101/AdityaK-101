@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🚀 Passionate about AI, ML, Python | 🎓 Computer Science Student  
+🚀 Passionate about Cybersecurity, AI, ML, Python | 🎓 Computer Science Student  
 </p>
 
 ---
