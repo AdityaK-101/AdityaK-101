@@ -12,10 +12,10 @@
 
 ### 🛠️ Projects
 <p align="left">
-- AI Coding Tutor application<br>
-- Outlier Detection in car GPS<br>
-- Portfolio website<br>
-- Excel automation
+- [AI Coding Tutor application](https://github.com/AdityaK-101/AI-tutor)
+- [Outlier Detection in car GPS](https://github.com/AdityaK-101/Outlier_detection)
+- [Portfolio website](https://github.com/AdityaK-101/Portfolio_website)
+- [Excel automation](https://github.com/AdityaK-101/Excel-automation)
 </p>
 
 ---
