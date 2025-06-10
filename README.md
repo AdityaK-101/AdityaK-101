@@ -31,9 +31,10 @@
 
 ### 🛠️ Projects
 <p align="left">
+- AI Coding Tutor application<br>
+- Outlier Detection in car GPS<br>
 - Portfolio website<br>
-- Excel automation<br>
-- Outlier Detection in GPS
+- Excel automation
 </p>
 
 ---
